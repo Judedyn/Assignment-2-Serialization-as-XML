@@ -11,10 +11,9 @@ Each shape has an Area property that is automatically calculated based on its si
 
 ## How to Run  
 1. Open the project folder in terminal  
-2. Type:  
-   dotnet build  
+   Type: dotnet build  
 3. Then run:  
-   dotnet run  
+   Type: dotnet run  
 
 ---
 
